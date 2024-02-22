@@ -10,6 +10,4 @@ Want to try out the very latest dev builds?
 https://patreon.com/CraptiCraftDevelopment
 Use the above dev build at your own risk! Please follow any and ALL instructions provided with EACH dev build released!
 
-### More Information
-
 
