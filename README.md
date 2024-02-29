@@ -1,7 +1,7 @@
 # ClansLite-Wiki
 A light weight clans plugin for Spigot.  This is where you can find all information regarding the plugin and its API.
 
-Click here for the detailed wiki for ClansLite and ClansLiteAPI: [Wiki](https://github.com/CraptiCraft-Development/ClansLite-Wiki/wiki)
+Click here for the detailed [Wiki](https://github.com/CraptiCraft-Development/ClansLite-Wiki/wiki) for ClansLite and ClansLiteAPI.
 
 ### ClansLite
 ClansLite is a light-weight clans plugin for Minecraft servers running Spigot or any of its forks!
