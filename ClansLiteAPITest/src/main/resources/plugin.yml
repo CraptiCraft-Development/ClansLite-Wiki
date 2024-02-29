@@ -1,0 +1,11 @@
+name: ClansLiteAPITest
+version: '${project.version}'
+main: me.loving11ish.clansliteapitest.ClansLiteAPITest
+api-version: 1.16
+folia-supported: true
+softdepend: [ ClansLite ]
+commands:
+  test:
+    description: Test command
+    usage: /test
+    aliases: [ t ]
