@@ -119,7 +119,7 @@
       <dependency>
           <groupId>com.github.CraptiCraft-Development</groupId>
           <artifactId>ClansLite-API</artifactId>
-          <version>1.4.4</version>
+          <version>1.6.0</version>
           <scope>provided</scope>
       </dependency>
       <dependency>
